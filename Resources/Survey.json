@@ -1,0 +1,56 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "size": "Medium",
+            "weight": "Bolder",
+            "text": "${Title}",
+            "wrap": true
+        },
+        {
+            "type": "TextBlock",
+            "text": "${Description}",
+            "wrap": true
+        },
+        {
+            "type": "ActionSet",
+            "actions": [
+                {
+                    "type": "Action.Execute",
+                    "title": "Emergency Event",
+                    "verb": "surveyResponded",
+                    "data": {
+                        "surveyResponse": "emergencyEvent"
+                    }
+                },
+                {
+                    "type": "Action.Execute",
+                    "title": "Occupant Okay",
+                    "verb": "surveyResponded",
+                    "data": {
+                        "surveyResponse": "occupantOkay"
+                    }
+                },
+                {
+                    "type": "Action.Execute",
+                    "title": "Space Empty",
+                    "verb": "surveyResponded",
+                    "data": {
+                        "surveyResponse": "spaceEmpty"
+                    }
+                },
+                {
+                    "type": "Action.Execute",
+                    "title": "Other",
+                    "verb": "surveyResponded",
+                    "data": {
+                        "surveyResponse": "other"
+                    }
+                }
+            ]
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.4"
+}

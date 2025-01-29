@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corey\\source\\repos\\BraveNotificationManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1759F4D-12D5-4328-8720-21E85D7FC8F8}|BraveNotificationManager.csproj|c:\\users\\corey\\source\\repos\\bravenotificationmanager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1759F4D-12D5-4328-8720-21E85D7FC8F8}|BraveNotificationManager.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7173F00E-8536-4CFF-81FD-ACD63A07CF44}|TeamsApp\\TeamsApp.ttkproj|c:\\users\\corey\\source\\repos\\bravenotificationmanager\\teamsapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7173F00E-8536-4CFF-81FD-ACD63A07CF44}|TeamsApp\\TeamsApp.ttkproj|solutionrelative:teamsapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\corey\\source\\repos\\BraveNotificationManager\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\corey\\source\\repos\\BraveNotificationManager\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T20:10:51.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\corey\\source\\repos\\BraveNotificationManager\\TeamsApp\\README.md",
+              "RelativeDocumentMoniker": "TeamsApp\\README.md",
+              "ToolTip": "C:\\Users\\corey\\source\\repos\\BraveNotificationManager\\TeamsApp\\README.md",
+              "RelativeToolTip": "TeamsApp\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-29T20:08:57.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
